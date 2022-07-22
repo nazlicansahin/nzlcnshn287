@@ -1,10 +1,10 @@
 # Hi 👋, I'm Nazlican
 
-👩‍🎓-I'm a software engineering student. <br>
-👩‍💻-I'm cureently learning web development. <br>
-✍-I regularly write articles on [medium.com](nazlicansahin.medium.com/) <br>
-✍-I'm also content writer at NotTutuyoruz and Öğrenci Kariyeri. <br>
-📬-How you can reach me **nzlcnshn287@hotmail.com** <br>
+👩‍🎓 I'm a software engineering student. <br>
+👩‍💻 I'm cureently learning web development. <br>
+✍ I regularly write articles on [medium.com](nazlicansahin.medium.com/) <br>
+✍ I'm also content writer at NotTutuyoruz and Öğrenci Kariyeri. <br>
+📬 How you can reach me **nzlcnshn287@hotmail.com** <br>
 <br>
 
 ## Connect With Me
