@@ -1,4 +1,4 @@
-# Hi 👋, I'm Nazlican
+# Hi 👋, I'm Nazlıcan
 
 👩‍🎓 I'm a software engineering student. <br>
 👩‍💻 I'm cureently learning web development. <br>
